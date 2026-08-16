@@ -1,0 +1,11 @@
+# render output: frames, logs, videos (GBs)
+output/
+
+# built scene: references machine-local asset packs, rebuild with build_scene.py
+assets/warehouse_tote_flow.usd
+
+# machine-local paths — copy config/assets.example.json to assets.json and edit
+config/assets.json
+
+__pycache__/
+*.pyc

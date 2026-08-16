@@ -1,0 +1,10 @@
+{
+    "end_effector_frame_name": "tool0",
+    "maximum_substep_size": 0.00334,
+    "ignore_robot_state_updates": false,
+    "relative_asset_paths": {
+        "robot_description_path": "kr120_robot_description.yaml",
+        "urdf_path": "../kr120_r2500.urdf",
+        "rmpflow_config_path": "kr120_rmpflow_config.yaml"
+    }
+}

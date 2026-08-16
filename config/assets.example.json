@@ -1,0 +1,26 @@
+{
+  "isaac_python": "C:/path/to/isaac-sim-5.1/python.bat",
+  "asset_root": "C:/path/to/Assets/Isaac/5.1",
+  "ext_folder": "",
+  "extra_assets_root": "",
+  "nvidia_packs_root": "",
+  "environments": {
+    "empty": "Isaac/Environments/Simple_Warehouse/warehouse.usd",
+    "shelves": "Isaac/Environments/Simple_Warehouse/warehouse_multiple_shelves.usd",
+    "forklifts": "Isaac/Environments/Simple_Warehouse/warehouse_with_forklifts.usd",
+    "full": "Isaac/Environments/Simple_Warehouse/full_warehouse.usd",
+    "digital_twin": "Isaac/Environments/Digital_Twin_Warehouse/small_warehouse_digital_twin.usd"
+  },
+  "robots": {
+    "ur10": "Isaac/Robots/UniversalRobots/ur10/ur10.usd",
+    "ur10_suction": "Isaac/Robots/UniversalRobots/ur10/ur10_short_suction.usd",
+    "go2": "Isaac/Robots/Unitree/Go2/go2.usd",
+    "iw_hub": "Isaac/Robots/Idealworks/iwhub/iw_hub.usd"
+  },
+  "props": {
+    "pallet": "Isaac/Props/Pallet/pallet.usd",
+    "conveyor_dir": "Isaac/Props/Conveyors",
+    "packing_table": "Isaac/Props/PackingTable"
+  },
+  "people_dir": "Isaac/People/Characters"
+}
